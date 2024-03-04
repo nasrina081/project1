@@ -3,10 +3,12 @@ import React from "react";
 
     const Literature = () => {
         const books = [
-            {
+            {   
                 "title": "The Love Songs of W.E.B. Du Bois",
                 "author": "Honoree Fanonne Jeffers",
                 "buyLink": "https://www.sankofa.com/blank-2/the-love-songs-of-w-e-b-du-bois"
+                "img": "./public/<img src="/images/the love songs of w.e.b dubois.jpg"
+                
     
             },
             {
