@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-[![Video Walkthrough]([https://imgur.com/a/4gPK5CX](https://imgur.com/a/QGRGkzp))]
+[![Video Walkthrough](https://imgur.com/a/QGRGkzp)](https://imgur.com/a/QGRGkzp)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
