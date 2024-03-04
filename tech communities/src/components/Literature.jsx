@@ -6,10 +6,8 @@ import React from "react";
             {   
                 "title": "The Love Songs of W.E.B. Du Bois",
                 "author": "Honoree Fanonne Jeffers",
-                "buyLink": "https://www.sankofa.com/blank-2/the-love-songs-of-w-e-b-du-bois"
-                "img": "./public/<img src="/images/the love songs of w.e.b dubois.jpg"
-                
-    
+                "buyLink": "https://www.sankofa.com/blank-2/the-love-songs-of-w-e-b-du-bois",
+                "img": "./public/images/love-songs.jpg"
             },
             {
                 "title": "The Fire Next Time",
@@ -81,6 +79,7 @@ import React from "react";
                     {books.map((book, index) => (
                         <div className="card" key={index}>
                             <div className="card-body">
+                                <image src={book.img } alt={book.title} />
                                 <h2>{book.title}</h2>
                                 <p>{book.author}</p>
                             </div>
