@@ -7,7 +7,7 @@ import React from "react";
                 "title": "The Love Songs of W.E.B. Du Bois",
                 "author": "Honoree Fanonne Jeffers",
                 "buyLink": "https://www.sankofa.com/blank-2/the-love-songs-of-w-e-b-du-bois",
-                "img": "./public/images/love-songs.jpg"
+                img: "../../public/images/IMG_5529.jpeg"
             },
             {
                 "title": "The Fire Next Time",
