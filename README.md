@@ -1,15 +1,14 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - *My Favorite Books by Black Authors*
 
-Submitted by: **Your Name Here**
+Submitted by: **Nasrin Ali**
 
-This web app: **insert description**
+This web app: **gives readers a range of books by Black authors.**
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
-
 - [ ] **There is a unique theme for events or resources relevant to a specific community**
 - [ ] **At least 10 unique resources or events are displayed in a responsive card format**
 
