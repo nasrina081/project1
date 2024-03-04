@@ -74,7 +74,6 @@ import React from "react";
 
         return (
             <div className="Literature">
-                <h1>My favorite books by Black Authors.</h1>
                 <div className="card-container">
                     {books.map((book, index) => (
                         <div className="card" key={index}>
