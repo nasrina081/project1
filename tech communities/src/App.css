@@ -17,3 +17,24 @@
   min-height: 100vh;
   background-color: white;
 }
+.card-container {
+  display: flex;
+  flex-wrap: wrap; /* Wrap items to the next line when there's no more space */
+  justify-content: center;
+  align-items: center;
+  gap: 20px; /* Add some spacing between cards */
+}
+
+.card {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: calc(33.33% - 20px); /* Adjust width as needed, subtracting margin */
+}
+
+/* Adjust card styles as needed */
+.card-body {
+  text-align: center; /* Center text within the card */
+}
